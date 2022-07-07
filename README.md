@@ -9,5 +9,5 @@ Next.js + Tailwindcss + MSW 초기설정을 한 보일러플레이트입니다.
 ```
 
 ## reference
-[MSW 초기설정(with. Next.js)](https://github.com/vercel/next.js/tree/canary/examples/with-msw)
-[Tailwindcss 초기설정](https://tailwindcss.com/docs/guides/nextjs)
+- [MSW 초기설정(with. Next.js)](https://github.com/vercel/next.js/tree/canary/examples/with-msw)
+- [Tailwindcss 초기설정](https://tailwindcss.com/docs/guides/nextjs)
